@@ -6,3 +6,4 @@
 ⚔️ YOLO dördüncü satır - test merge
 ⚔️ YOLO beşinci satır - test merge
 ⚔️ YOLO altıncı satır - test merge
+⚔️ YOLO yedinci satır - test merge
